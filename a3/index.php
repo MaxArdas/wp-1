@@ -2,6 +2,7 @@
 <html lang='en'>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Assignment 3</title>
 
     <!-- Keep wireframe.css for debugging, add your css to style.css -->
